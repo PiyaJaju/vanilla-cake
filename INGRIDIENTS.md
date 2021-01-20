@@ -1,0 +1,8 @@
+ingredient1- fresh cream (1cup)
+ingredient2- sugar (1cup)
+ingredient3- maida (2cup)
+ingredient4- mik powder (1cup)
+ingredient5- custard powder (2tbsp)
+ingredient6- baking powder (1tsp)
+ingredient7- baking soda (1/2tsp)
+ingredient8- vanilla essence (1tsp)
